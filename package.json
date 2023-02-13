@@ -13,7 +13,7 @@
     "url": "https://github.com/constverum/stylelint-config-rational-order/issues"
   },
   "scripts": {
-    "lint": "node ./node_modules/eslint/bin/eslint.js .",
+    "lint": "eslint .",
     "test": "npx jest"
   },
   "keywords": [
