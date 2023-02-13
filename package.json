@@ -42,8 +42,8 @@
     "eslint-plugin-prettier": "^3.0.1",
     "jest": "^24.7.1",
     "prettier": "^1.16.4",
-    "stylelint": "^9.10.1",
-    "stylelint-order": "^2.2.1"
+    "stylelint": "^14.16.1",
+    "stylelint-order": "^6.0.2"
   },
   "homepage": "https://github.com/constverum/stylelint-config-rational-order"
 }
