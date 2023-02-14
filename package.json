@@ -14,7 +14,7 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "test": "npx jest"
+    "test": "jest"
   },
   "keywords": [
     "stylelint",
@@ -45,5 +45,5 @@
     "stylelint": "^14.16.1",
     "stylelint-order": "^6.0.2"
   },
-  "homepage": "https://github.com/constverum/stylelint-config-rational-order"
+  "homepage": "https://github.com/leejefy-forks/stylelint-config-rational-order"
 }
