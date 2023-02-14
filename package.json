@@ -45,5 +45,9 @@
     "stylelint": "^14.16.1",
     "stylelint-order": "^6.0.2"
   },
-  "homepage": "https://github.com/leejefy-forks/stylelint-config-rational-order"
+  "homepage": "https://github.com/leejefy-forks/stylelint-config-rational-order",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
 }
