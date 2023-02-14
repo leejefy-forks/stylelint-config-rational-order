@@ -1,3 +1,6 @@
+**fork from [stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order)**
+
+
 # stylelint-config-rational-order
 
 [![NPM version][version-img]][npm-url]

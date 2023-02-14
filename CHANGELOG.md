@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4 (2023-02-14)
+
+- chore: add `publishConfig`.
+- chore: fork homepage.
+
 ## 0.1.3 (2023-02-13)
 
 - chore: rename to `@web-io/stylelint-config-rational-order`.
